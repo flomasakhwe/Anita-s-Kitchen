@@ -1,0 +1,39 @@
+.intro h1 {
+  font-family: cairo;
+  color: white;
+  text-align: center;
+
+}
+.intro{
+  background-image: url( "../images/backgrounds/landing.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: inherit;
+  background-position: center;
+  }
+#courses {
+  font-family: lobster;
+
+  }
+  #logo{
+    padding-left: 400px;
+    padding-top: 50px;
+  }
+  #box{
+    background-image: url("../images/foodtop/breakfast.jpg");
+    padding: 90px;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  #lunch{
+    background-image: url("../images/foodtop/lunch.jpg");
+    padding: 90px;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  #dinner{
+    background-image: url("../images/foodtop/dinner.jpg");
+    padding:90px;
+    background-repeat:no-repeat;
+    color: white;
+  }
