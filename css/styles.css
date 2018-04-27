@@ -1,11 +1,13 @@
 .intro h1 {
+
   font-family: cairo;
   color: white;
   text-align: center;
 
 }
 .intro{
-  background-image: url( "../images/backgrounds/landing.jpg");
+  background:url( "../images/backgrounds/landing.jpg");
+
   background-repeat: no-repeat;
   background-size: cover;
   padding: inherit;
@@ -13,11 +15,14 @@
   }
 #courses {
   font-family: lobster;
+  margin: 0px;
+  border: none;
 
   }
   #logo{
-    padding-left: 400px;
+    padding-left: 0px;
     padding-top: 50px;
+    text-align: center;
   }
   #box{
     background-image: url("../images/foodtop/breakfast.jpg");
@@ -36,4 +41,17 @@
     padding:90px;
     background-repeat:no-repeat;
     color: white;
+  }
+  #fastFood{
+    font-size: 20px;
+  }
+  #fastFood img{
+    float: left;
+  }
+  #drinks img{
+    float: right;
+    class: img-thumbnail;
+  }
+  #drinks p{
+    font-size: 20px;
   }
