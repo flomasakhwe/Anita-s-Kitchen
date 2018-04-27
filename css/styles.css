@@ -12,6 +12,7 @@
   background-size: cover;
   padding: inherit;
   background-position: center;
+  padding: 100px;
   }
 #courses {
   font-family: lobster;
@@ -38,7 +39,7 @@
   }
   #dinner{
     background-image: url("../images/foodtop/dinner.jpg");
-    padding:90px;
+    padding:100px;
     background-repeat:no-repeat;
     color: white;
   }
@@ -50,8 +51,27 @@
   }
   #drinks img{
     float: right;
-    class: img-thumbnail;
   }
   #drinks p{
     font-size: 20px;
+  }
+  .row{
+    margin: 60px;
+  }
+  .btn-lg{
+    background-color: white;
+    color: red;
+    border-color: red;
+  }
+  h1  {
+    font-weight: bold;
+  }
+  #drinks{
+    text-align: right;
+  }
+  .text-box{
+   border: 2px solid green;
+  }
+  .row1{
+    border-spacing:none;
   }
