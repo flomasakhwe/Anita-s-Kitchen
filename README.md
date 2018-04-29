@@ -9,6 +9,6 @@ Florah Masakhwe
 Clone this repo to your desktop
 
 ## Live Website
-To access the website go to(flomasakhwe.github.io/Anitas-Kitchen/)
+To access the website go to[Anita's Kitchen](flomasakhwe.github.io/Anitas-Kitchen/)
 
 (c) 2018 GitHub.Inc
